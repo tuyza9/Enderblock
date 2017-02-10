@@ -1,0 +1,6 @@
+name: eb
+main: eb.Main
+version: 2
+commands:
+  ebreload:
+    description: reload configuration.
